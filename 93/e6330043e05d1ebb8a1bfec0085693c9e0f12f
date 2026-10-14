@@ -1,0 +1,19 @@
+.changeset/flow-anchor-margin-offset.md
+  s_f57f4bebb11039::t_1676cad38b8335 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "93e6330043e05d1ebb8a1bfec0085693c9e0f12f",
+  "prompts": {},
+  "sessions": {
+    "s_f57f4bebb11039": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ec40ea4f1fferjDEWwr3g6FFXI",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Yelena Kozlova <13513562+yelenavk@users.noreply.github.com>"
+    }
+  }
+}
