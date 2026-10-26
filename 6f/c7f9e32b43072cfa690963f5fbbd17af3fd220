@@ -1,0 +1,19 @@
+packages/kumo/src/code/code-highlighted.tsx
+  s_cf17628433a7f0::t_f49445b3f7eaa5 92,171-173,179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6fc7f9e32b43072cfa690963f5fbbd17af3fd220",
+  "prompts": {},
+  "sessions": {
+    "s_cf17628433a7f0": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e9600e679ffevSVlIi3UpNWbJb",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Yelena Kozlova <13513562+yelenavk@users.noreply.github.com>"
+    }
+  }
+}
